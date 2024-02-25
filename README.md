@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import take3d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-take3d@deno/mod.js';
+import take3d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-take3d@v0.2.1-deno/mod.js';
 ```
 
 #### take3d( x, indices, dimension, mode )
@@ -103,7 +103,7 @@ var w = take3d( x, [], 2, 'throw' );
 import filled3dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled3d-by@deno/mod.js';
 import filledBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled-by@deno/mod.js';
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
-import take3d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-take3d@deno/mod.js';
+import take3d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-take3d@v0.2.1-deno/mod.js';
 
 // Generate a random array:
 var shape = [ 3, 3, 3 ];
