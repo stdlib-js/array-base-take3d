@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import take3d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-take3d@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/array-base-take3d/tags). For example,
+
+```javascript
 import take3d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-take3d@v0.2.2-deno/mod.js';
 ```
 
@@ -103,7 +108,7 @@ var w = take3d( x, [], 2, 'throw' );
 import filled3dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled3d-by@deno/mod.js';
 import filledBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled-by@deno/mod.js';
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
-import take3d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-take3d@v0.2.2-deno/mod.js';
+import take3d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-take3d@deno/mod.js';
 
 // Generate a random array:
 var shape = [ 3, 3, 3 ];
