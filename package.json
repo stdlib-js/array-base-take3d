@@ -37,8 +37,8 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/array-base-take2d": "^0.2.1",
-    "@stdlib/ndarray-base-ind": "^0.2.1",
+    "@stdlib/array-base-take2d": "^0.2.2",
+    "@stdlib/ndarray-base-ind": "^0.2.2",
     "@stdlib/ndarray-base-normalize-index": "^0.2.2",
     "@stdlib/string-format": "^0.2.2",
     "@stdlib/types": "^0.3.2",
