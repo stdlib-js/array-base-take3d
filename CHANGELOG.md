@@ -2,6 +2,41 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-12-16)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`028d3db`](https://github.com/stdlib-js/stdlib/commit/028d3db4147f5e4735d81babd193a65c983d87c9) - **bench:** refactor to use string interpolation in `array/base/take3d` [(#9053)](https://github.com/stdlib-js/stdlib/pull/9053) _(by DivitJain26, Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   DivitJain26
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-29)
